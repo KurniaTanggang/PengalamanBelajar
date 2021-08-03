@@ -1,1 +1,2 @@
-*Haloo, ini file baru.*
+*Haloo, ini file baru.*  
+***Ini file baru ya***
